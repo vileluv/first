@@ -5,4 +5,4 @@ with open ('lec003_ex1.txt', 'rb')as f_rb:
     content = f_rb.read(10)
 print([v for v in content[4:8]])
 print("amogus")
-print("abobus")
+print("abobusss")
