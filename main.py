@@ -6,3 +6,4 @@ with open ('lec003_ex1.txt', 'rb')as f_rb:
 print([v for v in content[4:8]])
 print("amogus")
 print("abobusss")
+print("sus")
